@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
   
-  
+  It can be good as a backup, if your device becomes corrupt and you lost all your data, a copy will be stored in the cloud. This also allows you to share you code and allow other users to collaborate.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  To prevent conflicts and to have more meaningful commits. An auto commit will have no relevance.
