@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
   The staging area allows you to check in files before a commint, this allows you to review and rest if needed. It also allows you to commit multiple files.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+  I can add to the staaging area using git add, then using git diff i can compare files and ensure i want to commit the changes.
